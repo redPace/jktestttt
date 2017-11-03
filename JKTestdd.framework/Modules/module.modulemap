@@ -1,0 +1,6 @@
+framework module JKTestdd {
+  umbrella header "JKTestdd.h"
+
+  export *
+  module * { export * }
+}
